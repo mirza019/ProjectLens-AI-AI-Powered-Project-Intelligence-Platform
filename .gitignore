@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+projectlens.db
+generated/
+output/
+.DS_Store
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
